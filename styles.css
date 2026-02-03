@@ -4,7 +4,7 @@ body {
   line-height: 1.6;
   margin: 0;
   padding: 0;
-  background-color: #810a0a;
+  background-color: #2a5f11;
   color: #333;
 }
 
@@ -16,7 +16,7 @@ header {
 }
 
 nav {
-  background-color: #3b0808;
+  background-color: #209226;
 }
 
 nav ul {
@@ -32,7 +32,7 @@ nav ul li {
 }
 
 nav ul li a {
-  color: rgb(151, 32, 32);
+  color: rgb(33, 42, 121);
   display: block;
   padding: 15px 20px;
   text-decoration: none;
@@ -122,14 +122,4 @@ button:hover {
   nav ul li a {
     padding: 12px;
   }
-}
-/* Profile Image */
-.profile-img {
-  width: 150px;
-  height: 150px;
-  object-fit: cover;
-  border-radius: 50%;
-  display: block;
-  margin: 15px auto;
-  border: 4px solid #4CAF50;
 }
